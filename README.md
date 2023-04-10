@@ -5,7 +5,7 @@
 <h2 align='center'> Hi there, I'm Mark 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
-  <samp> I'm a software engineer from Guadalajara, MÉXICO. I am a Full Stack Javascript developer and a pro in Design. Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging .. Some of the technologies I enjoy working with include NodeJS, ReactJS, MongoDB, DynamoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 Sketch.
+  <samp> I'm a software engineer from Puerto Vallarta, MÉXICO. I am a Full Stack Javascript developer and a pro in UI/UX. Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging .. Some of the technologies I enjoy working with include Typescript, NodeJS, ReactJS, MongoDB, DynamoDB, other JS frameworks and UI/UX samples and prototypes using Figma and 💎 Sketch.
   </samp>
   <br>
 </p>
@@ -22,6 +22,7 @@
 
 <h5 align='center'> Full Stack</h5>
 <p align='center'>
+  <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React.js%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
